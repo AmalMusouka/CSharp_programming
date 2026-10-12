@@ -1,0 +1,14 @@
+/home/amalmusouka/cs_programming/word_counting/bin/Debug/net8.0/word_counting
+/home/amalmusouka/cs_programming/word_counting/bin/Debug/net8.0/word_counting.deps.json
+/home/amalmusouka/cs_programming/word_counting/bin/Debug/net8.0/word_counting.runtimeconfig.json
+/home/amalmusouka/cs_programming/word_counting/bin/Debug/net8.0/word_counting.dll
+/home/amalmusouka/cs_programming/word_counting/bin/Debug/net8.0/word_counting.pdb
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.AssemblyInfoInputs.cache
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.AssemblyInfo.cs
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.csproj.CoreCompileInputs.cache
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.dll
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/refint/word_counting.dll
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.pdb
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/word_counting.genruntimeconfig.cache
+/home/amalmusouka/cs_programming/word_counting/obj/Debug/net8.0/ref/word_counting.dll

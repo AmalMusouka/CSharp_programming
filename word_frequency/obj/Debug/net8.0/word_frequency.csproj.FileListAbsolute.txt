@@ -1,0 +1,14 @@
+/home/amalmusouka/cs_programming/word_frequency/bin/Debug/net8.0/word_frequency
+/home/amalmusouka/cs_programming/word_frequency/bin/Debug/net8.0/word_frequency.deps.json
+/home/amalmusouka/cs_programming/word_frequency/bin/Debug/net8.0/word_frequency.runtimeconfig.json
+/home/amalmusouka/cs_programming/word_frequency/bin/Debug/net8.0/word_frequency.dll
+/home/amalmusouka/cs_programming/word_frequency/bin/Debug/net8.0/word_frequency.pdb
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.AssemblyInfoInputs.cache
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.AssemblyInfo.cs
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.csproj.CoreCompileInputs.cache
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.dll
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/refint/word_frequency.dll
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.pdb
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/word_frequency.genruntimeconfig.cache
+/home/amalmusouka/cs_programming/word_frequency/obj/Debug/net8.0/ref/word_frequency.dll
