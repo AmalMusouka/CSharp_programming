@@ -1,0 +1,15 @@
+/home/amalmusouka/CSharp_programming/para_word_counting/bin/Debug/net8.0/para_word_counting
+/home/amalmusouka/CSharp_programming/para_word_counting/bin/Debug/net8.0/para_word_counting.deps.json
+/home/amalmusouka/CSharp_programming/para_word_counting/bin/Debug/net8.0/para_word_counting.runtimeconfig.json
+/home/amalmusouka/CSharp_programming/para_word_counting/bin/Debug/net8.0/para_word_counting.dll
+/home/amalmusouka/CSharp_programming/para_word_counting/bin/Debug/net8.0/para_word_counting.pdb
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.AssemblyInfoInputs.cache
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.AssemblyInfo.cs
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.csproj.CoreCompileInputs.cache
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.sourcelink.json
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.dll
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/refint/para_word_counting.dll
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.pdb
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/para_word_counting.genruntimeconfig.cache
+/home/amalmusouka/CSharp_programming/para_word_counting/obj/Debug/net8.0/ref/para_word_counting.dll

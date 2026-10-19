@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amalmusouka/cs_programming/word_counting/word_counting.csproj",
+      "projectUniqueName": "/home/amalmusouka/CSharp_programming/word_counting/word_counting.csproj",
       "projectName": "word_counting",
-      "projectPath": "/home/amalmusouka/cs_programming/word_counting/word_counting.csproj",
+      "projectPath": "/home/amalmusouka/CSharp_programming/word_counting/word_counting.csproj",
       "packagesPath": "/home/amalmusouka/.nuget/packages/",
-      "outputPath": "/home/amalmusouka/cs_programming/word_counting/obj/",
+      "outputPath": "/home/amalmusouka/CSharp_programming/word_counting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/amalmusouka/.nuget/NuGet/NuGet.Config"

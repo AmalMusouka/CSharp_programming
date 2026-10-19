@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amalmusouka/CSharp_programming/para_word_counting/para_word_counting.csproj": {}
+  },
+  "projects": {
+    "/home/amalmusouka/CSharp_programming/para_word_counting/para_word_counting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amalmusouka/CSharp_programming/para_word_counting/para_word_counting.csproj",
+        "projectName": "para_word_counting",
+        "projectPath": "/home/amalmusouka/CSharp_programming/para_word_counting/para_word_counting.csproj",
+        "packagesPath": "/home/amalmusouka/.nuget/packages/",
+        "outputPath": "/home/amalmusouka/CSharp_programming/para_word_counting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/amalmusouka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
