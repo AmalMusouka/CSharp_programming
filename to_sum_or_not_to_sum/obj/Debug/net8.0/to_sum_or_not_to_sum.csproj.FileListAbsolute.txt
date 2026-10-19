@@ -1,0 +1,15 @@
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.AssemblyInfoInputs.cache
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.AssemblyInfo.cs
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.csproj.CoreCompileInputs.cache
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.sourcelink.json
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/bin/Debug/net8.0/to_sum_or_not_to_sum
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/bin/Debug/net8.0/to_sum_or_not_to_sum.deps.json
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/bin/Debug/net8.0/to_sum_or_not_to_sum.runtimeconfig.json
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/bin/Debug/net8.0/to_sum_or_not_to_sum.dll
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/bin/Debug/net8.0/to_sum_or_not_to_sum.pdb
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.dll
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/refint/to_sum_or_not_to_sum.dll
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.pdb
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/to_sum_or_not_to_sum.genruntimeconfig.cache
+/home/amalmusouka/CSharp_programming/to_sum_or_not_to_sum/obj/Debug/net8.0/ref/to_sum_or_not_to_sum.dll

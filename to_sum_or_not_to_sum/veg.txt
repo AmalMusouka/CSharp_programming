@@ -1,0 +1,4 @@
+month    goods       type        seller      amount    cost    profit
+january  potatoes    domestic    Bartak      10895     12      130740
+january  potatoes    own         Celestyn    15478     10      154780
+january  apples      imported    Adamec      1321      30      39630
