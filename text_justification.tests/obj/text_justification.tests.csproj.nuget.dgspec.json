@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amalmusouka/CSharp_programming/text_justification.tests/text_justification.tests.csproj": {}
+  },
+  "projects": {
+    "/home/amalmusouka/CSharp_programming/text_justification.tests/text_justification.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amalmusouka/CSharp_programming/text_justification.tests/text_justification.tests.csproj",
+        "projectName": "text_justification.tests",
+        "projectPath": "/home/amalmusouka/CSharp_programming/text_justification.tests/text_justification.tests.csproj",
+        "packagesPath": "/home/amalmusouka/.nuget/packages/",
+        "outputPath": "/home/amalmusouka/CSharp_programming/text_justification.tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/amalmusouka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/amalmusouka/CSharp_programming/text_justification/text_justification.csproj": {
+                "projectPath": "/home/amalmusouka/CSharp_programming/text_justification/text_justification.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/amalmusouka/CSharp_programming/text_justification/text_justification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amalmusouka/CSharp_programming/text_justification/text_justification.csproj",
+        "projectName": "text_justification",
+        "projectPath": "/home/amalmusouka/CSharp_programming/text_justification/text_justification.csproj",
+        "packagesPath": "/home/amalmusouka/.nuget/packages/",
+        "outputPath": "/home/amalmusouka/CSharp_programming/text_justification/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/amalmusouka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

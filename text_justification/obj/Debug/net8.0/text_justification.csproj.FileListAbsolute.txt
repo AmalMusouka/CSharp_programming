@@ -1,0 +1,15 @@
+/home/amalmusouka/CSharp_programming/text_justification/bin/Debug/net8.0/text_justification
+/home/amalmusouka/CSharp_programming/text_justification/bin/Debug/net8.0/text_justification.deps.json
+/home/amalmusouka/CSharp_programming/text_justification/bin/Debug/net8.0/text_justification.runtimeconfig.json
+/home/amalmusouka/CSharp_programming/text_justification/bin/Debug/net8.0/text_justification.dll
+/home/amalmusouka/CSharp_programming/text_justification/bin/Debug/net8.0/text_justification.pdb
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.AssemblyInfoInputs.cache
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.AssemblyInfo.cs
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.csproj.CoreCompileInputs.cache
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.sourcelink.json
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.dll
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/refint/text_justification.dll
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.pdb
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/text_justification.genruntimeconfig.cache
+/home/amalmusouka/CSharp_programming/text_justification/obj/Debug/net8.0/ref/text_justification.dll

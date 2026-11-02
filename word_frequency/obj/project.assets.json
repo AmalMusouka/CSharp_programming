@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amalmusouka/cs_programming/word_frequency/word_frequency.csproj",
+      "projectUniqueName": "/home/amalmusouka/CSharp_programming/word_frequency/word_frequency.csproj",
       "projectName": "word_frequency",
-      "projectPath": "/home/amalmusouka/cs_programming/word_frequency/word_frequency.csproj",
+      "projectPath": "/home/amalmusouka/CSharp_programming/word_frequency/word_frequency.csproj",
       "packagesPath": "/home/amalmusouka/.nuget/packages/",
-      "outputPath": "/home/amalmusouka/cs_programming/word_frequency/obj/",
+      "outputPath": "/home/amalmusouka/CSharp_programming/word_frequency/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/amalmusouka/.nuget/NuGet/NuGet.Config"

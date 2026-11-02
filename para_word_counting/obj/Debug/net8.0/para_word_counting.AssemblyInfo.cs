@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("para_word_counting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e76ad20037cc97f8fa4cfce15da2b5f279bbc58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92622563e1f071d56a323a849cae61fd8babd686")]
 [assembly: System.Reflection.AssemblyProductAttribute("para_word_counting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("para_word_counting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
